@@ -1,0 +1,81 @@
+/* @media (max-width: 360px) */
+
+@media (max-width: 988px){
+   
+}
+
+@media (max-width: 768px){
+    .title h2 {
+        margin-top: 30px;
+    }
+    
+
+}
+
+@media (max-width: 480px){
+    body {
+        font-size: 16px;
+    }
+    .title h2 {
+        font-size: 30px;
+    }
+    .header .header__title h1, .sentence .header__title h1 {
+        font-size: 30px; 
+    }
+    .header .header__content h2, .sentence .header__content h2 {
+        font-size: 30px; 
+    }
+    .header .header__content .header__btn a.btn.btn-primary, .sentence .header__content .header__btn a.btn.btn-primary {
+        width: 220px;
+        font-size: 30px;
+    }
+    .header .header__content p, .sentence .header__content p {
+        font-size: 27px;
+        font-weight: 400;
+    }
+    .header .header__content .header__btn p, .sentence .header__content .header__btn p {
+        font-size: 35px;
+    }
+    .header .header__content .header__content-img, .sentence .header__content .header__content-img {
+        width: 100px;
+        height: 50px;
+        bottom: -35px;
+        right: 33px;
+    }
+    .header__img-sub {
+        padding: 0px 0;
+    }
+    .sentence .sentence__text {
+        font-size: 20px;
+    }
+    .delivery .delivery__text {
+        font-size: 20px;
+    }
+    .footer .form__wrap h2 {
+        font-size: 30px;
+    }
+    .footer .form-group {
+        font-size: 15px;
+    }
+    .header__img-thx {
+        margin-top: 90px;
+    }
+}
+
+
+@media (max-width: 320px){
+    
+
+}
+
+
+
+
+
+
+  
+
+
+  
+  
+
